@@ -67,6 +67,7 @@ git clone https://github.com/SNIGDHO-XD/PAKISTANI-CLONER
 cd PAKISTANI-CLONER
 git pull
 python Pak.py
+..........................
 Tool Username;Toxic
 ```
 #### About
